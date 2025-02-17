@@ -32,9 +32,9 @@
     <!-- github -->
     <a href="https://github.com/23younesm" target="_blank"><img alt="GitHub" src="https://img.shields.io/static/v1?style=for-the-badge&message=@23younesm&color=181717&logo=GitHub&logoColor=FFFFFF&label="></a>
     <!-- linkedin -->
-    <a href="https://www.linkedin.com/in/maguireyounes/" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/static/v1?style=for-the-badge&message=Maguire+Younes&color=0077B5&logo=linkedin-white&logoColor=FFFFFF&label="></a>
+    <a href="https://www.linkedin.com/in/maguire-younes/" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/static/v1?style=for-the-badge&message=Maguire+Younes&color=0077B5&logo=linkedin-white&logoColor=FFFFFF&label="></a>
     <!-- download CV -->
-    <a href="https://maguireyounes.com/resume." target="_blank"><img alt="Open Resume" src="https://custom-icon-badges.demolab.com/static/v1?style=for-the-badge&message=Download+Resume&color=FF5555&logo=file-text&logoSource=feather&logoColor=FFFFFF&label="></a>
+    <a href="https://maguireyounes.com/resume" target="_blank"><img alt="Open Resume" src="https://custom-icon-badges.demolab.com/static/v1?style=for-the-badge&message=Download+Resume&color=FF5555&logo=file-text&logoSource=feather&logoColor=FFFFFF&label="></a>
 </p>
 
 <p align="center"> 
