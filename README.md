@@ -3,7 +3,7 @@
 </p>
 
 ## About Me  
-- 🚀 Ethical Penetration Tester | Cybersecurity & DevSecOps Engineer  
+- 🚀 Aspiring Penetration Tester | DevSecOps Engineering Intern
 - 🏆 CPTC Global 3rd Place | CCDC Mid-Atlantic Region 2nd Place
 - 📚 Majoring in Cybersecurity Analytics & Operations - Penn State College of IST   
 
