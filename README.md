@@ -8,7 +8,7 @@
 - 📚 Majoring in Cybersecurity Analytics & Operations - Penn State College of IST   
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,electron,tauri,mysql,postgresql,docker,nginx,linux,git,php,laravel" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,postgresql,docker,nginx,linux,git,php,ansible,aws,azure,bash,kali,openstack,windows" />
 </p>
 
 ## 🏗️ Projects & Experience  
