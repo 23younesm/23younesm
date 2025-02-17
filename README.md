@@ -19,7 +19,7 @@
 - 💻 **Infrastructure & DevOps**  
   - Proxmox homelab with public-facing services (NGINX + Cloudflare Tunnels)  
   - Containerized web apps & databases (Docker + MySQL)  
-  - Automated backups with Restic over SFTP  
+  - Automated backups with rsync over SSH  
 - 🔑 **Cybersecurity & Open-Source**  
   - Developed a Sliver C2 infrastructure with NGINX proxying  
   - Worked with Modbus, DNP3, OpenPLC, and Ignition HMI systems  
